@@ -7,9 +7,6 @@
 
 Manual de uso de la herramienta OpenLane
 ========================================
-.. warning:: 
-   Este proyecto se encuentra  bajo desarrollo...
-
 
 La siguiente documentación busca complementar el uso de la herramienta OpenLane para estudiantes de la `Escuela de Ingeniería Eléctrica de la UCR <https://eie.ucr.ac.cr/>`_.
 Esta misma fue creada a partir de la documentación ya existente de `OpenLane documentación oficial <https://openlane.readthedocs.io/en/latest/index.html>`_.

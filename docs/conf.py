@@ -20,12 +20,10 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
     'sphinx.ext.autodoc',
-    'myst_parser',
 ]
 
 source_suffix = {
     ".rst": "restructuredtext",
-    ".md": "markdown",
 }
 
 templates_path = ['_templates']
