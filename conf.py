@@ -16,7 +16,6 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-numfig = True
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
@@ -49,3 +48,4 @@ html_css_files = [
 
 html_static_path = ['_static']
 
+numfig = True
